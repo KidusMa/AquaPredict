@@ -52,7 +52,3 @@ AquaPredict/
 1. **Backend:** Python (FastAPI) for API, ML, and geospatial processing.
 2. **Frontend:** React for dashboard and visualization.
 3. **Deployment:** Docker and cloud scripts for scalable deployment.
-
----
-
-For more details, see the documentation in the `docs/` folder.
